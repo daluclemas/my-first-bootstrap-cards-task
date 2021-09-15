@@ -17,12 +17,12 @@
 
 @font-face {
     font-family: lexend;
-    src: url('/font/Lexend_Deca/LexendDeca-Regular.ttf');
+    src: url('./Lexend_Deca/LexendDeca-Regular.ttf');
 }
 
 @font-face {
     font-family: big;
-    src: url('/font/big-shoulders-display/BigShouldersDisplay-Regular.ttf');
+    src: url('./big-shoulders-display/BigShouldersDisplay-Regular.ttf');
 }
 
 .container{
@@ -102,7 +102,7 @@
     font-weight: 600;
 }
 
-.active.btn{
+.change.btn{ 
     color: white;
 }
 

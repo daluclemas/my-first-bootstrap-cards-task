@@ -11,11 +11,11 @@ makeArr.forEach(item=>{
     item.addEventListener('click', (e)=>{
         // change the font color
 
-        e.target.classList.toggle('active');
+        e.target.classList.toggle('change');
         
         // remove the white background and add the white border
 
-        e.target.parentElement.classList.toggle('active');
+        e.target.parentElement.classList.toggle('');
 
     });
 
