@@ -17,12 +17,12 @@
 
 @font-face {
     font-family: lexend;
-    src: url('/Lexend_Deca/LexendDeca-Regular.ttf');
+    src: url('/fontss/LexendDeca-Regular.ttf');
 }
 
 @font-face {
     font-family: big;
-    src: url('/big-shoulders-display/BigShouldersDisplay-Regular.ttf');
+    src: url('/fontss/BigShouldersDisplay-Regular.ttf');
 }
 
 .container{
